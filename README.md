@@ -21,10 +21,4 @@ To get a local copy up and running, follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies by running `npm install`.
 4. Start the development server by running `npm start`.
-5. Open your browser and navigate to `http://localhost:3000`.
-
-## Folder Structure
-
-The project structure is organized as follows:
-
-g
+5. Open your browser and navigate to `http://localhost:5173`.
