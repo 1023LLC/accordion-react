@@ -1,8 +1,30 @@
-# React + Vite
+# React Accordion Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project implements a simple accordion component using React.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clicking on an accordion item expands or collapses it.
+- One or multiple accordion items can be expanded at the same time.
+
+## Technologies Used
+
+- React
+- HTML
+- CSS
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+1. Clone this repository to your local machine using `git clone`.
+2. Navigate to the project directory.
+3. Install dependencies by running `npm install`.
+4. Start the development server by running `npm start`.
+5. Open your browser and navigate to `http://localhost:3000`.
+
+## Folder Structure
+
+The project structure is organized as follows:
+
+g
