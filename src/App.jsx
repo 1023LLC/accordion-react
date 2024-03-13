@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className='App'>
-      {/* This is my component */}
+      
       <Accordion/>
       
     </div>
